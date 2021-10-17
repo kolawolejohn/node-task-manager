@@ -9,4 +9,4 @@ Run yarn
 or
 Run npm install if you are comfortable with npm
 
-### Note in this initial setup authentication was not implemented, subsequent implementations will involve authentication
+# Note in this initial setup, authentication was not implemented, subsequent implementations will involve authentication
